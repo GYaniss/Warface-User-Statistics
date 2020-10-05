@@ -29,6 +29,7 @@ namespace Warface
                 case "Recon": R = "Cнайпер"; break;
                 case "Rifleman": R = "Штурмовик"; break;
                 case "Medic": R = "Медик"; break;
+                case "Heavy": R = "СЭД"; break;
             }
             return R;
         }
